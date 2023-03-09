@@ -1,0 +1,23 @@
+<form class="feedback-form-ajax" enctype="multipart/form-data">
+    <div class="questions-form__inner">
+        <label for="">Имя</label>
+        <input required type="text" name="NAME">
+    </div>
+    <div class="questions-form__inner">
+        <label for="">Номер телефона</label>
+        <input required type="tel" name="PHONE" placeholder="+7 (ХХХ) ХХХ-ХХ-ХХ">
+    </div>
+    <div class="questions-form__inner questions-form__inner--text">
+        <label for="">Ваш вопрос</label>
+        <input required type="text" name="MESSAGE">
+    </div>
+    <div class="questions-form__btns">
+        <div class="input__wrapper">
+            <input name="FILE" type="file" id="input__file" class="input input__file" multiple>
+            <label for="input__file" class="input__file-button">
+                <span class="input__file-button-text">Прикрепить файл</span>
+            </label>
+        </div>
+        <button type="submit" class="all-btn"><span>отправить</span></button>
+    </div>
+</form>

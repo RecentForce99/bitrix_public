@@ -1,0 +1,54 @@
+/*.bx-authform-social-popup{*/
+/*	display: none;*/
+/*	background: #fff;*/
+/*	width: auto;*/
+/*	padding: 15px;*/
+/*	font-size: 14px;*/
+/*	white-space: nowrap;*/
+/*}*/
+
+/*.bx-authform-social-popup form{margin-bottom: 0;}*/
+
+/*.bx-authform-social-popup input[type="text"] {*/
+/*	display: inline-block;*/
+/*	max-width: 150px;*/
+/*	font-size: 18px;*/
+/*	height: 30px;*/
+/*	margin: 0;*/
+/*	padding: 0 4px;*/
+/*	border: 1px solid #CCD5DB;*/
+/*	border-radius: 2px;*/
+/*	background: #f8fafc;*/
+/*	outline: none;*/
+/*	-webkit-box-sizing: border-box;*/
+/*	-moz-box-sizing: border-box;*/
+/*	box-sizing: border-box;*/
+/*}*/
+
+/*.bx-authform-social ul {*/
+/*  	padding: 5px 0 12px;*/
+/*  	margin: 0 0 15px;*/
+/*  	display: block;*/
+/*}*/
+
+/*.bx-authform-social ul li {*/
+/*	position: relative;*/
+/*	display: inline-block;*/
+/*	width: 35px;*/
+/*	height: 35px;*/
+/*	margin-right: 5px;*/
+/*}*/
+
+.bxe-light
+{
+    display: none
+}
+
+.bx-authform-social ul li .bx-authform-social-icon {
+    display: block;
+    width: 78px;
+    height: 78px;
+    background-image: url(images/sprite.png);
+    background-repeat: no-repeat;
+    border-bottom: none;
+}

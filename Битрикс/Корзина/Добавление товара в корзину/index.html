@@ -1,0 +1,3 @@
+<button class="product__basket add-cart-ajax" data-cart="ID товара">
+    <img src="/img/icon/bag2.svg" alt="Товар">
+</button>
